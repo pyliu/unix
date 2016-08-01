@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/data/lego/modules/article/maple/modules'
+let g:netrw_dirhist_2='/data/lego/modules/footer/maple/external/templates'
+let g:netrw_dirhist_3='/home/pyliu/web/test/php/src/config'
+let g:netrw_dirhist_4='/home/pyliu/web/src/r3output'
+let g:netrw_dirhist_5='/home/pyliu/web/src/r3output/web/ar_XA/skins/search/html_mobile_light'
+let g:netrw_dirhist_6='/home/pyliu/web/pkg/gsp2_web'
